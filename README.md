@@ -1,8 +1,8 @@
 # Console-Creatures
 
 going to make a ghost thing...
-(" .-------.");
-("(  o   o  )");
+/n (" .-------.");
+/n ("(  o   o  )");
 ("|    O    |");
 ("|( . Y . )|");
 ("'^^^^^^^^^'");
